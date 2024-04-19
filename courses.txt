@@ -1,0 +1,13 @@
+# Programming
+Java Programming
+Python Programming
+C++ Programming
+# Physics
+Mechanics
+Electromagnetism
+Optics
+# Math
+Linear Algebra
+Differential Calculus
+Analytical Geometry
+vgkenr
